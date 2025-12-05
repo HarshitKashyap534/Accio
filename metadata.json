@@ -1,0 +1,7 @@
+{
+  "name": "Accio",
+  "description": "An intelligent voice AI dashboard for e-commerce customer support, featuring order tracking, user databases, and a Hindi-speaking support agent.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
